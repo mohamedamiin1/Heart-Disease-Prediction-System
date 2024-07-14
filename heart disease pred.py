@@ -9,6 +9,12 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import base64
 
+# Set page configuration
+st.set_page_config(page_title="Health Assistant",
+                   layout="wide",
+                   page_icon="🫀")
+
+
 # loading the saved models
 heart_disease_model = pickle.load(open('C:/Users/Administrator/Desktop/Heart Disease Prediction System/saved_models/heart_disease_model.sav', 'rb'))
 
