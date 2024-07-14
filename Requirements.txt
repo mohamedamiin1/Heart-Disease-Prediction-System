@@ -1,0 +1,17 @@
+pip install streamlit
+pip install streamlit-option-menu
+pip install pandas
+pip install seaborn
+pip install matplotlib
+pip install pybase64
+pip install pickle5
+pip install pillow
+pip install joblib
+pip install numpy
+
+
+pip install sklearn-model
+pip install scikit-learn
+pip install scikit-tree
+pip install scikit-learn-VAL
+pip install tk-tools
