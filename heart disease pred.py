@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 import base64
 
 # Set page configuration
-st.set_page_config(page_title="Health Assistant",
+st.set_page_config(page_title="Heart Health Predictor",
                    layout="wide",
                    page_icon="🫀")
 
