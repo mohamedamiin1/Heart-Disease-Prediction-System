@@ -1,5 +1,5 @@
 # Heart-Disease-Prediction-System
- In this project, I predicted heart disease using Machine Learning. After importing and analyzing data with plots, I generated dummy variables for categorical features and scaled others. I applied four algorithms, including Logistic Regression, and improved scores by varying parameters. Logistic Regression achieved 0.8512 accuracy.
+ In this project, I predicted heart disease using Machine Learning. After importing and analyzing data with plots, I generated dummy variables for categorical features and scaled others. I applied four algorithms, including Random Forest Classifier, and improved scores by varying parameters.
 
 
 Heart Disease Prediction System project:
@@ -8,7 +8,7 @@ Project Overview:
 - The project aims to predict heart disease using Machine Learning techniques.
 - The project involves importing and analyzing data, generating dummy variables for categorical features, scaling other features, and applying six machine learning algorithms, including Random Forest Classifier and Logistic Regression.
 - Random Forest Classifier yielded the highest percentage of 83%, which revealed the best performance.
-- The Logistic Regression model achieved an accuracy of 0.8512 (85.12%) in predicting heart disease.
+
 
 
 
@@ -16,15 +16,13 @@ Key Features:
 - Data import and analysis with plots to understand the data
 - Generation of dummy variables for categorical features
 - Scaling of other features
-- GUI uses of six machine learning algorithms:
+- Streamlit and GUI uses of six machine learning algorithms:
 -	Logistic Regression
 -	Support Vector Classifier (SVC)
 -	K-Nearest Neighbors (KNN) Classifier
 -	Decision Tree Classifier
 -	Gradient Boosting Classifier
 -	Random Forest Classifier
-- Streamlit uses of six machine learning algorithms:
--	Logistic Regression
 - Improvement of model scores by varying parameters
 
 Technical Details:
