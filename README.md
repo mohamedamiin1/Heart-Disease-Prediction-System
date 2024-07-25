@@ -33,7 +33,9 @@ Technical Details:
 
 System Requirements:
 •	Work on the windows, MAC OS, or Linux OS operating system.
+
 •	Requires Python 3. 7 or higher
+
 •	Needs the following Python libraries installed: Python libraries being used are pandas, numpy, scikit-learn and streamlit
 
 
